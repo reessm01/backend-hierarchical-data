@@ -2,11 +2,11 @@
 
 *Example program that practices recursive hierarchal trees using django-mptt.*
 
-To install (pipenv assumed to be installed)
-Run:
-`pipenv install`
-`pipenv shell`
+To install (pipenv assumed to be installed)<br>
+Run:<br>
+`pipenv install`<br>
+`pipenv shell`<br>
 
-To launch
-Run within Shell:
-`python manage.py runserver`
+To launch<br>
+Run within Shell:<br>
+`python manage.py runserver`<br>
